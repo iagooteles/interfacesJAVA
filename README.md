@@ -34,13 +34,17 @@ O código realiza as seguintes operações:
     ```bash
     git clone https://github.com/iagooteles/interfacesJAVA.git
     ```
-3. Compile o projeto:
+3. Entre na pasta:
     ```bash
-    javac br/edu/udemy/interfaceChallenge/lpa/Main.java
+    cd interfacesJAVA/
     ```
-4. Execute o projeto:
+4. Compile o projeto:
     ```bash
-    java br.edu.udemy.interfaceChallenge.lpa.Main
+    javac Main.java
+    ```
+5. Execute o projeto:
+    ```bash
+    java Main
     ```
 
 ## Exemplo de Saída
